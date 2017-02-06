@@ -1,0 +1,34 @@
+The Questionable Priorities Public License
+Version 1.0 January 2011
+
+Copyright (C) 2011 Kevin Haag
+
+1. Definitions
+
+   1.1 "The Copyright Holder" is Kevin Haag.
+
+   1.2 "Source Code" is all or any part of the text written by The Copyright Holder, to which this License applies.
+
+   1.3 "Derivative Work" means any modified version of the Source Code, anything created using the Source Code, anything created using any modified version of the Source Code, anything containing the Source Code, anything containing any modified version of the Source Code, or the unmodified Source Code when Distributed by someone other than The Copyright Holder.
+
+   1.4 "License" means this document, The Questionable Priorities Public License Version 1.0.
+
+   1.5 "Distributed" and "Distribution" means made available in any form for free or for a fee.
+
+2. Terms of Distribution
+
+   2.1 The Source Code and any Derivative Work may be Distributed by any entity in any manner they wish provided all Terms of Distribution found in section 2 of this License are met.
+
+   2.2 The name of The Copyright Holder must be present somewhere in any Derivative Work.
+
+   2.3 Derivative Work and any subsequent works stemming from Derivative Works do not have to be licensed under this License, but the name of The Copyright Holder must remain present for as long as the Source Code is present, along with a note stating such.
+
+3. Other Conditions
+
+   3.1 Any entity may make any modifications to the Source Code they wish.
+
+   3.2 Any entity may use the Source Code for anything they wish.
+
+   3.3 If anyone ever finds the Source Code useful, they may buy the Copyright Holder a beer.
+
+   3.4 The Copyright Holder is in no way responsible for any kind damage or loss, either physically, monetarily, or mentally that may occur as a result of the use of, attempted use of, proximity to, or other possible interactions with the Source Code or any Derivative Works.
